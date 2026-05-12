@@ -1,7 +1,7 @@
 # CaveGame C++ Edition
 
 Консольная игра на C++, с редактором карт и настройкой сложности.
-Данный репозиторий является форком оригинального репозитория (rayshalov/CaveGame)[https://github.com/rayshalov/CaveGame],
+Данный репозиторий является форком оригинального репозитория [rayshalov/CaveGame](https://github.com/rayshalov/CaveGame),
 оригинальный код написан на C#.
 
 ##  Геймплей
