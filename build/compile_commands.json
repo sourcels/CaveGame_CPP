@@ -1,0 +1,98 @@
+[
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\Platform.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\Platform.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/Platform.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/Platform.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\core\\GUI.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\core\\GUI.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/core/GUI.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/core/GUI.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\core\\GameMap.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\core\\GameMap.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/core/GameMap.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/core/GameMap.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\core\\GetInput.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\core\\GetInput.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/core/GetInput.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/core/GetInput.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\core\\Render.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\core\\Render.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/core/Render.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/core/Render.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\edit\\Editor.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\edit\\Editor.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/edit/Editor.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/edit/Editor.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\entities\\Cursor.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\entities\\Cursor.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/entities/Cursor.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/entities/Cursor.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\entities\\Entity.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\entities\\Entity.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/entities/Entity.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/entities/Entity.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\entities\\ExitSymbol.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\entities\\ExitSymbol.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/entities/ExitSymbol.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/entities/ExitSymbol.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\entities\\Light.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\entities\\Light.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/entities/Light.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/entities/Light.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\entities\\Monster.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\entities\\Monster.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/entities/Monster.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/entities/Monster.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\entities\\Person.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\entities\\Person.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/entities/Person.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/entities/Person.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\main.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\main.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/main.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\menu\\GameMenu.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\menu\\GameMenu.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/menu/GameMenu.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/menu/GameMenu.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\menu\\ModeSelect.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\menu\\ModeSelect.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/menu/ModeSelect.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/menu/ModeSelect.cpp.obj"
+},
+{
+  "directory": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/CaveGameCPP.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\CaveGameCPP.dir\\src\\menu\\Settings.cpp.obj -c C:\\Users\\siper\\Repos\\CaveGame_CPP\\CaveGameCPP\\src\\menu\\Settings.cpp",
+  "file": "C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/src/menu/Settings.cpp",
+  "output": "CMakeFiles/CaveGameCPP.dir/src/menu/Settings.cpp.obj"
+}
+]

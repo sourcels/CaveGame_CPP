@@ -1,6 +1,8 @@
-# CaveGame
+# CaveGame C++ Edition
 
-Консольная игра на C#, с редактором карт и настройкой сложности.
+Консольная игра на C++, с редактором карт и настройкой сложности.
+Данный репозиторий является форком оригинального репозитория (rayshalov/CaveGame)[https://github.com/rayshalov/CaveGame],
+оригинальный код написан на C#.
 
 ##  Геймплей
 
@@ -64,18 +66,10 @@
 
 ### Из исходников
 ```
-git clone https://github.com/rayshalov/CaveGame
-cd CaveGame/CaveGame
-dotnet run
+git clone https://github.com/sourcels/CaveGame_CPP
+cd CaveGame_CPP
+mkdir build
+cd build
+cmake ..
+cmake --build .
 ```
-
-> ⚠️ Требуется .NET 8+. Игра работает только на Windows из-за использования `user32.dll`
-(в форках проекта есть пользовательский порт на Linux/MacOS).
-
-##  Планы
-
-- [ ] Кастомизация персонажа
-- [ ] Переходы между уровнями
-- [ ] Укрытия от &
-- [ ] Звуки
-- [ ] История

@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/CaveGameCPP.dir/src/Platform.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/Platform.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/core/GUI.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/core/GUI.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/core/GameMap.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/core/GameMap.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/core/GetInput.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/core/GetInput.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/core/Render.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/core/Render.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/edit/Editor.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/edit/Editor.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/entities/Cursor.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/entities/Cursor.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/entities/Entity.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/entities/Entity.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/entities/ExitSymbol.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/entities/ExitSymbol.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/entities/Light.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/entities/Light.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/entities/Monster.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/entities/Monster.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/entities/Person.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/entities/Person.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/main.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/main.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/menu/GameMenu.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/menu/GameMenu.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/menu/ModeSelect.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/menu/ModeSelect.cpp.obj.d"
+  "CMakeFiles/CaveGameCPP.dir/src/menu/Settings.cpp.obj"
+  "CMakeFiles/CaveGameCPP.dir/src/menu/Settings.cpp.obj.d"
+  "CaveGameCPP.exe"
+  "CaveGameCPP.exe.manifest"
+  "CaveGameCPP.pdb"
+  "libCaveGameCPP.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/CaveGameCPP.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

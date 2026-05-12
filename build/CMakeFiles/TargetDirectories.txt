@@ -1,0 +1,3 @@
+C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build/CMakeFiles/CaveGameCPP.dir
+C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build/CMakeFiles/edit_cache.dir
+C:/Users/siper/Repos/CaveGame_CPP/CaveGameCPP/build/CMakeFiles/rebuild_cache.dir
